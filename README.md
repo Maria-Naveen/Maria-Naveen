@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maria-Naveen
-- 👀 I’m interested in WEB DEV
+- 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently pursuing 3rd YEAR CSE
 
 
